@@ -32,8 +32,8 @@ threatened is not a healthy community.
 offers for help should be seen in the context of our shared goal of improving our solution. When you make something for the benefit of the project, be willing to explain to others how it works, so that they can build on your work to make it even better.
 * Showing empathy towards other community members
 * Assume good faith
-  * Contributors have many ways of reaching our common goal of 'fighting Corona'. Assume that
-other people are working towards this goal.
+  * Contributors have many ways of reaching our common goal of improving public health. Assume that
+other people are working towards this goal as well.
 * Try to be concise
   * Keep in mind that what you write once will be read by hundreds of 
 persons. Writing a short message means people can understand the 
@@ -43,7 +43,7 @@ necessary, consider adding a summary. Try to bring new arguments to a conversati
 
 Examples of unacceptable behavior by participants include:
 
-* The use of sexualized language or imagery and unwelcome sexual attention or
+* The use of sexualized language or imagery and unwelcome insulting attention or
  advances
 * Trolling, insulting/derogatory comments, and personal or political attacks
 * Public or private harassment
